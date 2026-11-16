@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ClinicCore
 
@@ -35,7 +35,10 @@ namespace ClinicCore
 
             {
 
-                age--;
+                // ОШИБКА: Вместо уменьшения возраста, мы его увеличиваем
+
+
+                age++;
 
             }
 
