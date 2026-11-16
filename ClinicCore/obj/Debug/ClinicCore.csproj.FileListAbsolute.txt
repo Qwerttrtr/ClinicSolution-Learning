@@ -1,0 +1,6 @@
+D:\307а\тест 9\ClinicSolution\ClinicCore\bin\Debug\ClinicCore.dll
+D:\307а\тест 9\ClinicSolution\ClinicCore\bin\Debug\ClinicCore.pdb
+D:\307а\тест 9\ClinicSolution\ClinicCore\obj\Debug\ClinicCore.csproj.AssemblyReference.cache
+D:\307а\тест 9\ClinicSolution\ClinicCore\obj\Debug\ClinicCore.csproj.CoreCompileInputs.cache
+D:\307а\тест 9\ClinicSolution\ClinicCore\obj\Debug\ClinicCore.dll
+D:\307а\тест 9\ClinicSolution\ClinicCore\obj\Debug\ClinicCore.pdb
